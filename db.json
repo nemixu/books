@@ -1,12 +1,16 @@
 {
   "books": [
     {
-      "title": "Test Book",
+      "title": "Lord of the rings",
       "id": 1
     },
     {
       "title": "Harry Potter 2",
       "id": 2
+    },
+    {
+      "title": "A new book to read",
+      "id": 3
     }
   ]
 }
